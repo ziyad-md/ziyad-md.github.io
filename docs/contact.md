@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: custom
 title: "Contact Me"
-permalink: ziyad-md.github.io/contact/
+permalink: /contact/
 ---
 # Mail me at ziyadmdarpon@gmail.com
